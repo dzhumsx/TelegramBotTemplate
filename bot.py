@@ -5,7 +5,6 @@ from telethon import events
 
 api_id = 'API ID'
 api_hash = 'API HASH'
-#destination_user_username='Astrum06'
 
 
 
